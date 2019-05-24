@@ -272,7 +272,7 @@ docker ps | grep vm-apache
 
 W przeglądarce internetowej wpisujemy:
 
-http://twój-serwer:82
+http://twój-serwer:82/server-status
 ![](src/apache-server.jpg "")
 
 Jak zdążyliście zauważyć moduł serwera http jest widoczny i gotowy do użycia.
